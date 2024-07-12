@@ -11,7 +11,7 @@ for i in range(256):
     c[i] = chr(i)
 
 # Read the image
-x = cv2.imread(r"C:\Users\JEEVAN KUMAR\Downloads\archive\screen.jpeg")
+x = cv2.imread(r"C:\Users\reddi\OneDrive\Desktop\CYBERSECURITY PROJECT\myimage.jpg")
 
 # Get the shape of the image
 i = x.shape[0]
